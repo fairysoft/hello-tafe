@@ -1,7 +1,7 @@
-## Hello-Tafe
+# Hello-Tafe
 I'm doing the learning
 
-# The Humble Readme File
+## The Humble Readme File
 **Introduction**
 
 So it turns out the simple README file is not so simple after all.
