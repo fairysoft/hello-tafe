@@ -1,6 +1,6 @@
 # Hello-Tafe
 I'm doing the learning
-
+![](longcat.png)
 ## The Humble Readme File
 **Introduction**
 
